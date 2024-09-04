@@ -16,6 +16,7 @@
     </view>
      <view>{{textSize}}</view>
     <button size="mini" type="primary" class="mt-10" @click="decrement">Navigate To</button>
+   
   </view>
 </template>
 
